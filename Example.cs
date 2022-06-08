@@ -11,6 +11,7 @@ namespace TestParserHehe
     /// <summary>
     /// Sample SimpleHttpParser Program
     /// Coded By: Felipe Durar
+    /// https://github.com/felipedurar/SimpleHttpParser
     /// </summary>
     class Program
     {

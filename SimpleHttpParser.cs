@@ -8,6 +8,7 @@ namespace Durar
     /// <summary>
     /// Simple HTTP Parser Class
     /// Coded By: Felipe Durar
+    /// https://github.com/felipedurar/SimpleHttpParser
     /// </summary>
     public class SimpleHttpParser
     {
